@@ -1,1 +1,1 @@
-# Left Arrow Star P
+# Left Arrow Star Pattern: 
