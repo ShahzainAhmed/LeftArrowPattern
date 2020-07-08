@@ -1,1 +1,1 @@
-# Left Arrow Star Pattern: 
+# Left Arrow Star Pattern in Java.
