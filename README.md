@@ -1,1 +1,1 @@
-# Left Arrow Sta
+# Left Arrow Star
